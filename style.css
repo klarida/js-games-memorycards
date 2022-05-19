@@ -1,0 +1,27 @@
+
+* {
+ box-sizing: border-box ;
+}
+
+html{
+min-height: 100vh;
+}
+
+body {
+    margin: 0;
+    background: radial-gradient(orange, darkorange);
+}
+
+
+.page-title {
+color: blue;
+font-family: memory Game, serif;
+font-weight: normal;
+text-align: center;
+font-size: 6ex;
+}
+
+.game-info {
+    font-family: ;
+    color: blueviolet;
+}
